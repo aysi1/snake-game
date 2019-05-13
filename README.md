@@ -1,5 +1,5 @@
 # snake-game
-nokia snake game in c progrmming
+nokia snake game using c programming laguage
 
 compile with:
 
